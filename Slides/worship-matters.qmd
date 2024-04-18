@@ -5,6 +5,7 @@ author: Hans Martinez
 format:
   revealjs: 
     theme: default
+    link-external-newwindow: true
 ---
 ## Plan
 
@@ -62,7 +63,7 @@ Un líder de adoración fiel exalta la grandeza de Dios en Jesucristo,por medio 
 
 <!-- {{< video  width="100%" height="100%" >}} -->
 
-[Sesión 4: Nuestra Tarea](https://vimeo.com/220563046){width="100%" height="100%"}
+[Sesión 4: Nuestra Tarea](https://vimeo.com/220563046){width="100%" height="100%" }
 
 ## Discusión
 
@@ -70,7 +71,7 @@ Un líder de adoración fiel exalta la grandeza de Dios en Jesucristo,por medio 
 
 (@) ¿Qué cosas, aparte de la cruz, compiten por tu atención cuando lideras?
 (@) ¿Cuáles son formas prácticas de recordarte a ti mismo y a tu iglesia que Cristo y su obra en la cruz nos dan acceso a Dios?
-(@) ¿Cómo podría recordar que Jesús hace aceptable nuestro culto a Dios cambiar la manera en que piensas sobre tu desempeño como músico/cantante?
+(@) ¿Cómo recordar que Jesús hace aceptable nuestro culto a Dios podría cambiar la manera en que piensas sobre tu desempeño como músico/cantante?
 
 :::
 
@@ -79,9 +80,9 @@ Un líder de adoración fiel exalta la grandeza de Dios en Jesucristo,por medio 
 
 ::: {.incremental}
 
-(@) ¿En qué cosas te sientes tentado a depender para realizar el trabajo en lugar del Espíritu Santo?
+(@) ¿En qué cosas te sientes tentado a depender, en lugar del Espíritu Santo, para cumplir el trabajo?
 (@) ¿Cuáles son algunas formas prácticas de expresar tu dependencia de Dios?
-(@) ¿Cómo puedes crecer personalmente en responder a la guía y dirección del Espíritu durante el liderazgo de la adoración?
+(@) ¿Cómo puedes crecer personalmente en responder a la guía y dirección del Espíritu mientras diriges la adoración?
 
 :::
 

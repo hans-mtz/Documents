@@ -428,7 +428,7 @@ Hans Martinez
 <ol class="example" type="1">
 <li class="fragment">¿Qué cosas, aparte de la cruz, compiten por tu atención cuando lideras?</li>
 <li class="fragment">¿Cuáles son formas prácticas de recordarte a ti mismo y a tu iglesia que Cristo y su obra en la cruz nos dan acceso a Dios?</li>
-<li class="fragment">¿Cómo podría recordar que Jesús hace aceptable nuestro culto a Dios cambiar la manera en que piensas sobre tu desempeño como músico/cantante?</li>
+<li class="fragment">¿Cómo recordar que Jesús hace aceptable nuestro culto a Dios podría cambiar la manera en que piensas sobre tu desempeño como músico/cantante?</li>
 </ol>
 </div>
 </section>
@@ -436,9 +436,9 @@ Hans Martinez
 <h2>Discusión</h2>
 <div>
 <ol start="4" class="example" type="1">
-<li class="fragment">¿En qué cosas te sientes tentado a depender para realizar el trabajo en lugar del Espíritu Santo?</li>
+<li class="fragment">¿En qué cosas te sientes tentado a depender, en lugar del Espíritu Santo, para cumplir el trabajo?</li>
 <li class="fragment">¿Cuáles son algunas formas prácticas de expresar tu dependencia de Dios?</li>
-<li class="fragment">¿Cómo puedes crecer personalmente en responder a la guía y dirección del Espíritu durante el liderazgo de la adoración?</li>
+<li class="fragment">¿Cómo puedes crecer personalmente en responder a la guía y dirección del Espíritu mientras diriges la adoración?</li>
 </ol>
 </div>
 </section>
@@ -748,6 +748,24 @@ Hans Martinez
         // clear code selection
         e.clearSelection();
       });
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp('/' + window.location.host + '/');
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+              // target, if specified
+              link.setAttribute("target", "_blank");
+              if (link.getAttribute("rel") === null) {
+                link.setAttribute("rel", "noopener");
+              }
+          }
+        }
       function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
