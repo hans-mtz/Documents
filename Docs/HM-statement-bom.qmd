@@ -1,0 +1,56 @@
+---
+title: 734 Platts Lane
+subtitle: London, ON
+format:
+  fancy-doc-pdf: default 
+site: "hansmartinez.com"
+author:
+  - name: Hans Martinez
+    affiliations:
+      - name: University of Western Ontario
+    email: hmarti33@uwo.ca
+    address:
+        - street: 734 Platts Lane
+        - city: London, ON
+# bibliography: bibliography.bib
+---
+
+**Banco de Mexico**
+
+**Direccion General de Investigación Económica (DGIE)**
+
+\vspace{1cm}
+
+Dear members of the selection committee,
+
+\vspace{1cm}
+
+Please consider my application for the PhD summer internship program at the Bank of Mexico's Directorate General of Economic Research. I am a PhD candidate in the Economics department at the University of Western Ontario. I expect to participate in the 2024-2025 job market. My research interests encompass the intersection of Applied Microeconomics and Empirical Industrial Organization focusing on public policy evaluation. 
+
+During the internship, I plan to work on my Job Market Paper (JMP), "Tax Evasion and Productivity". In the paper, I study how the fiscal environment generates heterogeneous incentives for firms and the effects of these incentives on firms' decisions to misreport their activity to the authorities. By misreporting, firms can increase their after-tax profits by reducing their fiscal burden. The fiscal environment also affects firm growth and the firm's optimization decisions. This is relevant for several reasons. First, it matters from a public policy perspective because tax evasion causes significant tax revenue losses for governments around the globe. Second, the fiscal environment might lead to unoptimal decisions of the firms slowing down the aggregate productivity of a country. Third, tax evasion might significantly bias our estimates of production functions and firm-level productivity.
+
+My JMP addresses the question of how can we identify and measure —in terms of government revenue losses— corporate tax evasion. To address this question I use production functions and focus on tax evasion through cost overreporting by manufacturing firms. Cost overreporting arises when firms acquire false invoices to claim additional tax deductions for value-added (VAT) and corporate income taxes (CIT). The challenge of identifying cost overreporting using production functions consists in naively mislabelling low productivity as cost overreporting, or vice versa. Intuitively, for a given level of output, high input utilization might be due to cost overreporting or because of a negative productivity shock.
+
+In my paper, I contribute to the literature in three ways. First, I provide a novel strategy to estimate tax evasion through cost overreporting. The results allow policymakers to answer the question, what is the monetary cost of tax evasion for governments? The method assumes that the researcher has access to firm-level data commonly available such as surveys of manufacturing firms. Second, I also formally show that ignoring cost overreporting leads to downward biased productivity estimates. Lastly, I theoretically demonstrate how to recover productivity in the presence of tax evasion. 
+
+Moving forward, I plan to provide an empirical application of my method to identify corporate tax evasion in different fiscal settings and evaluate changes in cost overreporting due to changes in fiscal policies. I plan to use firm-level data from Colombia between 1981 and 1991. Colombia is an interesting case because two major fiscal reforms in this period will allow me to show how to evaluate a policy change using my identification strategy. 
+
+To this end, I will proceed in two steps:
+
+<!-- So far, I empirically document that firms react to increases in tax sales by increasing the share of input expenses over revenues. I also observe in the data that firms with juridical organizations with the lowest incentives to evade have consistently lower input cost share of revenues than other firms. Although this is not conclusive evidence, these facts are in line with the cost overreporting hypothesis. -->
+
+1. The first step consists of establishing stylized facts and obtaining robust empirical evidence on cost overreporting changes due to changes in sales taxes (which later became a type of VAT). In 1986, a fiscal reform increased the sales tax rate of certain industries in the manufacturing sector while reducing it for others. Sales taxes were only targeted at the manufacturing sector and they varied by industry. Before the reform, some industries were taxed at six percent while others were at fifteen percent. The 1986 reform increased those paying the preferential rate to ten percent, and those paying the high rate were reduced to ten percent. This rich variation across industries in the sales taxes, along with the exogenous variation across time due to the policy changes will help empirically identify the effects of an increase in sales taxes on tax evasion. The fiscal reform of 1986 provides a natural experiment that I can potentially exploit by using a diff-in-diff approach, for example.
+
+2. The second step is to obtain estimates of tax evasion and corrected estimates of the production function and productivity at the firm level. With the results at hand, I would be able to compare with previous estimates of productivity. This is relevant because it will help us understand better how cost-overreporting affects our measures of productivity. At the aggregate level, this is relevant from a resource misallocation perspective. Roughly speaking, the wider the productivity distribution the larger the misallocation of resources in a country. The results will allow me to estimate the portion of the spread of the productivity distribution that can be explained by mismeasurement.
+
+<!-- Additionally, the plan is to also have estimates for Mexico and Ecuador. Why? Because both of these countries have administrative data which I plan to use to validate the method's effectiveness. In particular for Mexico, one interesting application would be to evaluate the effect of the electronic invoice on cost overreporting in the manufacturing sector. The survey *Encuesta Anual de la Manufactura* (EAM) provides information that I will use for this purpose. I am currently in the process of requesting access to the microdata at the INEGI center in Mexico City. -->
+
+<!-- To complement my application, I would like to discuss briefly my research agenda. A common link unifying my work consists of leveraging economic theory, and carefully modeling latent variables and information sets. In combination with state-of-the-art empirical methods, my research explores questions about market power, productivity, and firms' optimization decisions in the presence of market frictions. For instance, in a second working paper, I test if the OPEC cartel exerted market power behaving a la Cournot. In contrast to previous deterministic tests, I allow for measurement error in quantities. By utilizing a set of inequalities implied by the optimization behavior and using Markov Chain Monte Carlo (MCMC) simulation techniques, I find that the Cournot hypothesis cannot be rejected. The result is non-trivial because previous work had concluded the opposite, that the OPEC cartel could not be competing a la Cournot. The explanation for this contrasting conclusion is simple. Missing to incorporate measurement error leads to over-rejection by the non-stochastic models. -->
+
+I look forward to an in-person internship to have the opportunity to interact with the researchers at the DGIE and receive feedback to improve my paper. For any additional information, please feel free to contact me or my main advisor, Professor Salvador Navarro [(snavarr@uwo.ca)](mailto:snavarr@uwo.ca).
+
+\vspace{2cm}
+
+Sincerely,
+
+Hans Martinez

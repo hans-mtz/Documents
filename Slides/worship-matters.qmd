@@ -1,0 +1,94 @@
+---
+title: "Worship Matters"
+date: today
+author: Hans Martinez
+format:
+  revealjs: 
+    theme: default
+---
+## Plan
+
+- Introducción
+- Video
+- Discusión
+- Oración
+
+## Introducción
+
+- Capítulos 9  y 10 
+    - Capítulo 9: *... en Jesucristo*
+    - Capítulo 10: *... por el poder del Espíritu Santo*
+
+## ¿Qué es un Líder de Alabanza?
+
+- No hay una defición en la Biblia del *líder de alabanza*
+    - Antiguo Testamento: Levitas (differente)
+    - Nuevo Testament: Iglesia primitiva (no había un líder)
+- El autor propone una definición
+
+## Propuesta
+
+::: {.callout-note icon="false"}
+## Líder de adoración
+Un líder de adoración fiel exalta la grandeza de Dios en Jesucristo,por medio del Espíritu Santo, al combinar hábilmente la Palabra de Dios con la música, motivando a la iglesia reunida a proclamar el evangelio, a apreciar la presencia de Dios, y a vivir para la gloria de Dios.
+:::
+
+## Ampliando cada frase
+
+::: {.incremental}
+
+- Un líder de adoración fiel (cap. 7)
+    - Responsabilidad, testimonio,  ser diligentes
+- exalta la grandeza de Dios (cap. 8)
+    - Proclamando 1) Su Palabra, 2) Su naturaleza y 3) Su obra
+    - Apasianadamente: deleite, compromiso, ahnelo y confianza
+:::
+
+## Hoy
+
+- en Jesucristo (cap. 9)
+- por medio del Espíritu Santo (cap. 10)
+
+## Proximos capítulos
+
+- al combinar hábilmente la Palabra de Dios con la música,
+- motivando a la iglesia reunida
+- a proclamar el evangelio,
+- a apreciar la presencia de Dios,
+- y a vivir para la gloria de Dios.
+
+
+## Video
+
+## Discusión
+
+::: {.incremental}
+
+(@) ¿Qué cosas, aparte de la cruz, compiten por tu atención cuando lideras?
+(@) ¿Cuáles son formas prácticas de recordarte a ti mismo y a tu iglesia que Cristo y su obra en la cruz nos dan acceso a Dios?
+(@) ¿Cómo podría recordar que Jesús hace aceptable nuestro culto a Dios cambiar la manera en que piensas sobre tu desempeño como músico/cantante?
+
+:::
+
+
+## Discusión 
+
+::: {.incremental}
+
+(@) ¿En qué cosas te sientes tentado a depender para realizar el trabajo en lugar del Espíritu Santo?
+(@) ¿Cuáles son algunas formas prácticas de expresar tu dependencia de Dios?
+(@) ¿Cómo puedes crecer personalmente en responder a la guía y dirección del Espíritu durante el liderazgo de la adoración?
+
+:::
+
+## Ejercicio práctico
+
+- Adoremos sin música (3 min)
+- En voz alta
+- Reconociendo que Jesucristo es el principio y fin de nuestra adoración
+- Pidamos ayuda al Espiritu Santo y estemos atentos a su dirección
+- Exaltemos su grandeza:
+    - Su Palabra
+    - Su Naturaleza (Quien es Él)
+    - Sus obras (Lo que Él ha hecho)
+- Use los Salmos si se queda sin palabras

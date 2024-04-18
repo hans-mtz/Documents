@@ -1,0 +1,102 @@
+---
+author: Hans Martinez
+format: pdf
+title: Are You Charter Ready?
+date: today
+---
+### 1. Project Justification
+
+- **Why is your project needed?**
+The project is essential due to the widespread issue of tax evasion, which impacts government revenues and resource allocation, hindering economic development and public service provision. By investigating the relationship between tax evasion and productivity, this study aims to shed light on potential policy gaps and opportunities for enhancing economic efficiency.
+
+- **What problem will your project resolve?**
+It addresses the lack of comprehensive understanding regarding how tax evasion affects productivity across different sectors and economies. This knowledge gap makes it challenging to design effective policies that can enhance compliance while supporting economic growth.
+
+- **What are the project benefits?**
+The benefits include providing policymakers with evidence-based insights to craft better regulations, potentially increasing tax compliance and public revenues, and offering strategies to improve productivity, thus contributing to a more equitable and efficient economic system.
+
+### 2. Project Goals
+
+- **Which products?**
+The project will produce a comprehensive research thesis detailing the study's findings, policy recommendations, and a database of analyzed data regarding tax evasion and productivity metrics.
+
+- **Which results?**
+Expected outcomes include a better understanding of the mechanisms through which tax evasion impacts productivity, identification of sectors most affected by these dynamics, and evidence-based recommendations for policy improvements.
+
+- **Which services or which capabilities to perform a service?**
+The project aims to enhance the capability of policymakers and economic analysts to assess and address the impacts of tax evasion on productivity, thereby facilitating more informed decision-making processes.
+
+### 3. Project Requirements
+
+The project requires access to economic data, cooperation from relevant governmental and financial institutions for data collection, advanced analytical tools for data analysis, and expertise in economics and public policy for interpreting the results.
+
+### 4. SMART Project Requirements
+
+- **Specific**: Quantitative analysis of tax evasion's impact on productivity levels in various sectors.
+- **Measurable**: Increase in understanding and documentation of the tax evasion-productivity relationship, evidenced by the research findings.
+- **Attainable**: With the right access to data and analytical tools, these objectives are achievable.
+- **Relevant**: Aligns with the broader goal of enhancing economic efficiency and policy effectiveness.
+- **Time-bound**: Completion targeted for the end of the academic year, allowing for data collection, analysis, and writing.
+
+### 5. Prioritization of Requirements
+
+- **MUST HAVE**: Access to reliable data, analytical software.
+- **NICE TO HAVE**: Interviews with policy experts and economists for qualitative insights.
+- **OUT OF SCOPE**: Detailed analysis of tax evasion enforcement mechanisms.
+
+### 6. Exit Requirements
+
+- **Project success defined as**: Completion of the thesis with meaningful insights and recommendations based on robust analysis.
+- **WHO will decide**: Thesis advisor and examination committee.
+- **Participation in defining exit requirements**: Yes, through preliminary meetings and proposal approval.
+
+### 7. Project Assumptions
+
+- Availability of comprehensive data on tax evasion and productivity.
+- Willingness of institutions to collaborate and provide necessary information.
+- Stability in the economic policies and taxation framework during the study period.
+
+### 8. Project Constraints
+
+- **COST**: Limited budget for accessing proprietary databases.
+- **SCHEDULE**: Completion deadline of first draft by December 2024.
+- **SCOPE**: Focused on specific economic sectors and regions to ensure depth of analysis.
+
+### 9. Project Risks
+
+- **Risk Log**: Yes, including risks related to data accessibility, analytical limitations, and unforeseen policy changes.
+- **Risk Owner**: Each major risk identified will be assigned an owner, typically among the project team or advisors.
+- **Response Plan**: For each risk, a response plan including mitigation and contingency measures will be developed.
+
+### 10. Risk Prioritization
+
+Risks in order of priority are:
+    1. Approval of identification strategy by supervisors
+    1. Preliminary estimates confirming relevant findings and implications
+    1. Idea being done by economists foreign to Western
+
+### 11. Milestone Definition List
+
+Significant milestones include completion of literature review, data collection phase, analysis completion, first draft submission, and final thesis defense.
+
+### 12. Summary Schedule
+
+1. Approval of identification strategy by supervisors (Me, May, 2024)
+1. Preliminary estimates confirming relevant findings and implications (Me, June 2024)
+1. Full draft (Me, December 2024)
+
+### 13. Summary Budget
+
+Costs include paying tuition and rent: $5,000 per month.
+
+### 14. Project Stakeholders
+
+- **Project Manager**: Me, The student.
+- **Project Sponsor**: Academic advisors.
+- **Project Customer(s)**: Academic community and policy-making bodies.
+- **Project Team Members**: Data analysts, co-researchers if any.
+- **Other Managers with Decision Authority**: Thesis committee members.
+
+### 15. Stakeholder Sign-off
+
+Efforts will be made to ensure all content is thorough and all stakeholders are engaged throughout the process in terms of securing approval and ensuring a cohesive and collaborative effort towards project completion. The answers should provide a solid foundation for developing a comprehensive project charter for your thesis on "Tax Evasion and Productivity." Remember, these are template responses, and you should refine them based on the specific details and scope of your research.
