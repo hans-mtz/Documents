@@ -58,7 +58,9 @@ Un líder de adoración fiel exalta la grandeza de Dios en Jesucristo,por medio 
 - y a vivir para la gloria de Dios.
 
 
-## Video
+## 
+
+{{< video https://vimeo.com/220563046 width="100%" height="100%" >}}
 
 ## Discusión
 
@@ -81,10 +83,9 @@ Un líder de adoración fiel exalta la grandeza de Dios en Jesucristo,por medio 
 
 :::
 
-## Ejercicio práctico
+## Ejercicio práctico {.smaller}
 
-- Adoremos sin música (3 min)
-- En voz alta
+- Adoremos sin música (3 min), en voz alta
 - Reconociendo que Jesucristo es el principio y fin de nuestra adoración
 - Pidamos ayuda al Espiritu Santo y estemos atentos a su dirección
 - Exaltemos su grandeza:
