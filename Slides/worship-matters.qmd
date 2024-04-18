@@ -58,9 +58,11 @@ Un líder de adoración fiel exalta la grandeza de Dios en Jesucristo,por medio 
 - y a vivir para la gloria de Dios.
 
 
-## 
+## Video
 
-{{< video https://vimeo.com/220563046 width="100%" height="100%" >}}
+<!-- {{< video  width="100%" height="100%" >}} -->
+
+[Sesión 4: Nuestra Tarea](https://vimeo.com/220563046){width="100%" height="100%"}
 
 ## Discusión
 
