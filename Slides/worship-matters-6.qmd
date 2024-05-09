@@ -1,0 +1,56 @@
+---
+title: "Worship Matters"
+subtitle: "Session 6: Planning Meetings"
+date: today
+author: Hans Martinez
+format:
+  revealjs: 
+    theme: default
+    link-external-newwindow: true
+    incremental: true
+---
+## Plan
+
+- Introducción
+- Video
+- Discusión
+- Oración
+
+## Introducción
+
+- Capítulo 11: *... al combinar habilmente la palabra de Dios*
+- Capítulo 12: *... con la música* (Qué tipo de música?)
+- *HOY* Capítulo 13 *... con la música* (Planificar canciones)
+
+## ¿Qué es un Líder de Alabanza?
+
+::: {.callout-note icon="false"}
+## Líder de adoración
+Un líder de adoración fiel exalta la grandeza de Dios en Jesucristo,por medio del Espíritu Santo, al combinar hábilmente la Palabra de Dios con la música, motivando a la iglesia reunida a proclamar el evangelio, a apreciar la presencia de Dios, y a vivir para la gloria de Dios.
+:::
+
+
+## Video (local)
+
+[Video](https://vimeo.com/221475815)
+
+
+## Discusión
+
+1. ¿Qué te viene a la mente cuando escuchas la palabra "liturgia"? ¿Qué es la liturgia?
+2. ¿En qué punto se encuentran tú y tu iglesia en cuanto a la planificación temática? ¿Progresiva? ¿Contextual? ¿Creativa?
+3. ¿Cómo crees que tu iglesia utiliza los "limitadores" de la creatividad?
+4. ¿Qué tentaciones enfrentas respecto a la creatividad (miedo/dudas vs. entusiasmo/falta de discernimiento, etc.)?
+
+## Discusión 
+
+5. ¿Qué tentaciones crees que tendrán las personas en tu iglesia respecto a la creatividad (miedo/dudas versus entusiasmo/falta de discernimiento, etc.)?
+6. ¿Cuáles son otras maneras en las que podemos ayudar a las personas a entender que lo que hacemos cada semana es “en realidad más asombroso, emocionante, conmovedor, aleccionador, alentador e inspirador que cualquier cosa que este mundo pueda ofrecer”?
+
+
+## Ejercicio práctico {.smaller}
+
+- Oraciones públicas más biblicas (3 min), en voz alta
+- Tomemos un salmo diferente cada quien:
+    - 23, 33, 62, 86, 103, 145
+- Lee y luego oremos los pensamientos contenidos en el salmo, aplicandolo a las situaciones o personas en tu vida
