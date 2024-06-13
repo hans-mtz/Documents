@@ -1,0 +1,41 @@
+---
+title: "Worship Matters"
+subtitle: "Session 10: Healthy Tensions, Part 2"
+date: today
+author: Hans Martinez
+format:
+  revealjs: 
+    theme: default
+    link-external-newwindow: true
+    incremental: true
+---
+
+## Introducción
+
+- Reunión pasada iniciamos: TENSIONES SALUDABLES
+- Tensiones saludables: balance entre puntos de vista contrastantes sobre la liturgia
+
+
+## Tensiones Saludables
+
+- Planificado vs. Espontáneo
+- Arraigado vs. Relevante
+- Hábil y Auténtica
+- Para la Iglesia vs. para los no creyentes
+- El evento y el día a día
+
+## Video
+
+[Link](https://vimeo.com/223809308)
+
+## Preguntas de reflexión
+
+1. ¿Cómo sirve la planificación a los demás? ¿Cómo puede utilizarse la espontaneidad para servir a los demás?
+2. ¿Cuáles son algunas de las debilidades de planificar en detrimento de la espontaneidad? ¿y de la espontaneidad en detrimento de la planificación?
+3. ¿Cuáles son algunos pasos prácticos que puedes tomar para crecer en la planificación? ¿En la espontaneidad?
+
+## Preguntas de reflexión
+
+4. ¿Te inclinas más hacia lo tradicional o la relevancia? ¿Por qué?
+5. ¿Cuáles son algunas señales de que la habilidad es más importante para ti que la autenticidad? ¿Cuáles son algunas señales de que la autenticidad es más importante que la habilidad?
+6. ¿Qué pasos puedes tomar para que tu liderazgo sirva de manera más efectiva a la iglesia y a los no creyentes?
