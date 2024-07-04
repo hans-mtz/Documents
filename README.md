@@ -11,3 +11,5 @@
 - [S10](https://raw.githack.com/hans-mtz/Documents/main/Slides/w-m-10.html)
 
 - [S11](https://raw.githack.com/hans-mtz/Documents/main/Slides/w-m-11.html)
+
+- [S12](https://raw.githack.com/hans-mtz/Documents/main/Slides/w-m-12.html)
