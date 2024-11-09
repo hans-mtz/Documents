@@ -1,0 +1,59 @@
+---
+title: "_"
+format:
+  revealjs: 
+    theme: dark
+    link-external-newwindow: true
+    incremental: false
+title-slide-attributes:
+  data-background-image: im1.png
+  data-background-size: cover
+---
+
+# Célébrations Mexicaines en Novembre
+
+
+## Introduction {background-image="img2.jpg" background-size="cover" background-opacity="0.4"}
+
+- Novembre: mois de traditions au Mexique
+- Deux fêtes principales:
+  - Día de los Muertos (Jour des morts, 1 novembre)
+  - Anniversaire de la Révolution Mexicaine (20 novembre)
+
+## Día de los Muertos {background-image="img3.jpg" background-size="cover" background-opacity="0.5"}
+
+- Origine préhispanique avec influences espagnoles
+- Célébré le 2e novembre
+- Hommage aux défunts
+- Décorations: autels, cempasúchil, bougies, sucreries en forme de crânes
+
+
+## Célébrations du Día de los Muertos {background-image="img4.jpg" background-size="cover" background-opacity="0.4"}
+
+- Familles créent des autels (ofrendas)
+- Objets et nourritures aimés des défunts
+- Processions, danses et visites aux cimetières
+
+## La Révolution Mexicaine {background-image="img5.jpg" background-size="cover" background-opacity="0.4"}
+
+- Débute en 1910 contre la dictature de Porfirio Díaz
+- Objectif: justice sociale et meilleures conditions pour les paysans
+- Figures clés: Francisco Madero, Emiliano Zapata, Pancho Villa
+
+## Célébration du 20 Novembre {background-image="img7.jpg" background-size="cover" background-opacity="0.4"}
+
+- Anniversaire de la Révolution Mexicaine
+- Parades et reconstitutions historiques
+- Journée de mémoire nationale
+
+## Pancho Villa {background-image="img8.jpg" background-size="cover" background-opacity="0.4"}
+
+- Stratège militaire et héros populaire
+- Actions controversées: pillages, violences, exécutions
+- Figure complexe et symbolique
+
+## Pour En Savoir Plus {background-image="img9.jpg" background-size="cover" background-opacity="0.3"}
+
+- Livre recommandé: *Pancho Villa: Una Biografía Narrativa* par Paco Ignacio Taibo II
+- Disponible en français et en anglais
+- Offre une perspective détaillée sur Villa et la révolution
