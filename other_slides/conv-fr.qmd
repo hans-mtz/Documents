@@ -46,7 +46,7 @@ title-slide-attributes:
 - Parades et reconstitutions historiques
 - Journée de mémoire nationale
 
-## Pancho Villa {background-image="img8.jpg" background-size="cover" background-opacity="0.4"}
+## Pancho Villa {background-image="img6.jpg" background-size="cover" background-opacity="0.4"}
 
 - Stratège militaire et héros populaire
 - Actions controversées: pillages, violences, exécutions
